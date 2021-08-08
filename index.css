@@ -1,0 +1,28 @@
+body{
+    padding-left: 50px;
+    padding-right:50px;
+    text-align: center;
+}
+h1{
+    padding-top:10px;
+    color: black;
+    font-family: "Audiowide", sans-serif;
+}
+#selectRedDiv,#selectWhiteDiv,#message{
+    text-align:center;
+    margin-right:10px;
+    display:inline-block
+}
+#message{
+    margin:0;
+}
+#selectDiv{
+    padding:7px;
+    margin-top:20px;
+    border: 1px solid #ccc;
+    border-radius: 16px;
+}
+img{
+    margin-top:0;
+}
+
